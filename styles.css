@@ -1,0 +1,13 @@
+* {
+    color: red;
+}
+
+h3:hover {
+    color: darkorange;
+    font-size: 20px;
+}
+
+.about {
+    color: blue;
+}
+
