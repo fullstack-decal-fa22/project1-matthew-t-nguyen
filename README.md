@@ -1,2 +1,2 @@
 # project1-starter
-https://github.com/fullstack-decal-fa22/project1-matthew-t-nguyen
+https://fullstack-decal-fa22.github.io/project1-matthew-t-nguyen/
