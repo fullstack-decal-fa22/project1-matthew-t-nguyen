@@ -1,13 +1,58 @@
 * {
-    color: red;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    background-color:lavender;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-decoration-line: underline;
+    font:40px monospace;
 }
 
 h3:hover {
-    color: darkorange;
+    color: orange;
+    font-size: 30px;
+}
+
+ul {
+    display: inline-block;
+}
+
+.intro-images {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.work {
+    align-items: center;
+    justify-content: center;
+}
+
+.contact {
+    display: grid;
+    background-color: rgba(255, 255, 255, 0.8);
+    grid-auto-flow: row;
+    padding: 10px;
     font-size: 20px;
+    text-align: center;
 }
 
-.about {
-    color: blue;
+button {
+    background-color: orange;
 }
 
+#prom-picture {
+    border: 5px solid orange;
+}
+
+#basketball-picture {
+    border: 5px solid gold;
+}
+
+#llama-picture {
+    border: 5px solid gold;
+}
